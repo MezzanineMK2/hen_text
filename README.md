@@ -1,4 +1,6 @@
 # Hen Text
+[![Gem Version](https://badge.fury.io/rb/hen_text.svg)](https://badge.fury.io/rb/hen_text)
+
 A Ruby gem library to format text ʟɪᴋᴇ ᴛʜɪꜱ or 𝓵𝓲𝓴𝓮 𝓽𝓱𝓲𝓼!
 
 ### Description
