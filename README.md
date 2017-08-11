@@ -23,6 +23,8 @@ That's it!
 
 Call any of the `to_xxxx_xxxx` methods to return fancified text!
 ```ruby
+require 'hen_text'
+
 'This text looks very fancy because it is in cursive.'.to_cursive
  # => "𝓣𝓱𝓲𝓼 𝓽𝓮𝔁𝓽 𝓵𝓸𝓸𝓴𝓼 𝓿𝓮𝓻𝔂 𝓯𝓪𝓷𝓬𝔂 𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓲𝓽 𝓲𝓼 𝓲𝓷 𝓬𝓾𝓻𝓼𝓲𝓿𝓮" 
 
