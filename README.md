@@ -61,3 +61,7 @@ Method | Sample
 - Unicode characters can be finicky depending on where they're displayed, so text might not look the same everywhere.
 - The fancy text will typically look better in browsers, but will work in Terminal, etc as long as the font isn't too small.
 - I accept no responsibility for any damages incurred by wacky text either displaying or not displaying.
+
+## LICENSE
+
+MIT license.
